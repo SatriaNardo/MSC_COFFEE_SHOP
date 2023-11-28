@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687335430379",
+    "project_id": "msc-coffee-shop",
+    "storage_bucket": "msc-coffee-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687335430379:android:7a90629e31f831607806ae",
+        "android_client_info": {
+          "package_name": "com.msc.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687335430379-qrtppb3cu6clftfmt440imn0h1n8ceg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPCDpeT3HyLIZzYr8MdbCdWXcOQKd1Wag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687335430379-qrtppb3cu6clftfmt440imn0h1n8ceg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
